@@ -1,2 +1,3 @@
 # pyramide-oppgave
-Oppgave om pyramiden i giza
+Oppgave om verdens syv underverker.
+Jeg valgte Den Store Pyramiden i Giza.
